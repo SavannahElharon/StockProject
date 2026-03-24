@@ -1,1 +1,1 @@
-# StockProject
+just a quick personal project to practice c# and .net
