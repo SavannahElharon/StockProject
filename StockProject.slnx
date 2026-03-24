@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="StockProject.App/StockProject.App.csproj" />
+  <Project Path="StockProject.Core/StockProject.Core.csproj" />
+  <Project Path="StockProject.Tests/StockProject.Tests.csproj" />
+</Solution>
